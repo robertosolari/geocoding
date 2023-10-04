@@ -1,5 +1,7 @@
 # geocoding
 
+[Related article on Medium](https://medium.com/@robertosolaridev/geocoding-with-bing-maps-api-3a41c409e00b)
+
 Installation:
 ```
 python -m pip install -r requirements.txt
